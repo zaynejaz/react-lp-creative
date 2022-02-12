@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: 'https://lp-creative.vercel.app',
+  siteUrl: 'https://le-creative.vercel.app/',
   generateRobotsTxt: true,
   // optional
   // robotsTxtOptions: {
